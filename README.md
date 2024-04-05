@@ -11,4 +11,5 @@ intergrasi pembayaran midtrans
 1. daftar akun anda pada midtrans 'https://dashboard.midtrans.com/register'
 2. ubah menjadi sanbox pada dashboard midtrans
 3. copy key api anda pada file.env 
-   
+
+note : APLIKASI MASIH TAHAP PENGEMBANGAN   
